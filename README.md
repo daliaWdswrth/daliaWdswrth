@@ -1,7 +1,7 @@
 
 - 👋 Hi, my name is Dalia and I'm a rising junior at Tufts University studying computer science. 
 - 🎨 I'm also in the combined degree program with the School of the Museum of Fine Arts studying graphic arts.
-- 💻 I enjoy discovering ways in which these two subjects intersect and diverge!
+- 💻 I enjoy discovering new ways in which these two subjects intersect and diverge!
 
 
 
