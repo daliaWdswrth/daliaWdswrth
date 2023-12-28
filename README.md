@@ -1,5 +1,5 @@
 
-- 👋 Hi, my name is Dalia and I'm a rising junior at Tufts University studying computer science. 
+- 👋 Hi, my name is Dalia and I'm a junior at Tufts University studying computer science. 
 - 🎨 I'm also in the combined degree program with the School of the Museum of Fine Arts studying graphic arts.
 
 
