@@ -1,6 +1,5 @@
 
-- 👋 Hi, my name is Dalia and I'm a senior at Tufts University studying computer science. 
-- 🎨 I'm also in the combined degree program with the School of the Museum of Fine Arts studying graphic arts.
+- 👋 Hi, my name is Dalia and I recently graduated from Tufts University where I studied computer science and graphic arts. 
 
 
 
