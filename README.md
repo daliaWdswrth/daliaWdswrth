@@ -1,5 +1,5 @@
 
-- 👋 Hi, my name is Dalia and I recently graduated from Tufts University where I studied computer science and graphic arts. 
+- 👋 Hi
 
 
 
